@@ -1,0 +1,136 @@
+@media only screen and (max-width:1660px){
+
+}
+@media only screen and (max-width:1460px){
+
+}
+@media only screen and (min-width:1366px) and (max-width:1366px)
+{
+
+}
+@media only screen and (max-width:1100px) /* container size */
+{
+
+}
+
+@media only screen and (max-width:1024px) /* if tablate and mobile view is same */
+{
+
+}
+
+@media only screen and (min-width:960px) and (max-width:1024px)
+{
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px)
+{
+
+}
+
+@media only screen and (max-width:767px)
+{
+
+}
+
+@media (max-height: 500px)
+{
+
+}
+
+
+
+
+/* new */
+/*
+.pmpro-levels .site-content{background-color: #eaf5f0}
+.pmpro-levels h1.entry-title{text-align: center;}
+.pmpro-levels .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+#pmpro_levels_table .pmpro_btn {display: block;background-color: #000;color: #fff;}
+
+.pmpro-checkout  .site-content{background-color: #eaf5f0}
+.pmpro-checkout h1.entry-title{text-align: center;}
+.pmpro-checkout .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+
+
+.pmpro-confirmation .site-content{background-color: #eaf5f0}
+.pmpro-confirmation h1.entry-title{text-align: center;}
+.pmpro-confirmation .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+
+.pmpro-confirmation .acf-fields>.acf-field:first-child {padding: 0;}
+.pmpro-confirmation #EmpForm .acf-actions .acf-button{position: relative;top: -34px;background-color: transparent;color: #2d9b68;text-decoration: underline;padding: 0;}
+.pmpro-confirmation #EmpForm .acf-form-submit .acf-button{padding: 8px 40px;width: 100%;max-width: 150px;margin: 0 auto;display: block;margin-right: 0;}
+
+.pmpro-account .site-content{background-color: #eaf5f0}
+.pmpro-account h1.entry-title{text-align: center;}
+.pmpro-account .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+
+
+.pmpro-member-profile-edit .site-content{background-color: #eaf5f0}
+.pmpro-member-profile-edit h1.entry-title{text-align: center;}
+.pmpro-member-profile-edit form.pmpro_form .input,.pmpro-member-profile-edit form.pmpro_form textarea,.pmpro-member-profile-edit form.pmpro_form select {display: block;max-width: 100%;width: 100%;height: 40px;border:1px solid #00000042;}
+.pmpro-member-profile-edit .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+.pmpro-member-profile-edit form.pmpro_form .pmpro_asterisk{display: none !important;}
+.pmpro-member-profile-edit .entry-content h2{ color: #2d9b68;font-size: 26px;}
+.pmpro-member-profile-edit form.pmpro_form label,.pmpro-member-profile-edit #loginform label {margin-bottom: 4px;}
+
+.pmpro-invoice .site-content{background-color: #eaf5f0}
+.pmpro-invoice h1.entry-title{text-align: center;}
+.pmpro-invoice .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+.pmpro-invoice .acf-fields>.acf-field:first-child {padding: 0;}
+.pmpro-invoice #EmpForm .acf-actions .acf-button{ position: relative;top: 5px;background-color: transparent;color: #2d9b68;text-decoration: underline;padding: 0;margin-bottom: 20px;display: block;max-width: 110px;}
+.pmpro-invoice #EmpForm .acf-form-submit .acf-button{padding: 8px 40px;width: 100%;max-width: 150px;margin: 0 auto;display: block;margin-right: 0;}
+
+.pmpro-login{}
+.pmpro-login .site-content{background-color: #eaf5f0}
+.pmpro-login h1.entry-title{text-align: center;}
+.pmpro-login .entry-content{ max-width: 760px;margin: 0 auto;background-color: #fff;padding-bottom: 20px;padding: 20px 20px;}
+.pmpro-login #loginform input[type=text],.pmpro-login #loginform input[type=password],.pmpro-login form.pmpro_form .input{display: block;max-width: 100%;width: 100%;height: 40px;border:1px solid #00000042;}
+.fl-node-5d3ef41b5dd5c > .fl-row-content-wrap {margin-right: 0;}
+
+@media (max-width: 768px){
+form.pmpro_form .pmpro_btn, .pmpro_login_wrap #loginform input[type=submit] {display: block;width: 100%;padding: 8px;}
+}
+
+
+*/
+
+
+
+
+.pmpro-levels .entry-content {max-width: 940px;background-color: transparent}
+#pmpro_levels_table td:nth-child(1) {min-width: auto;}
+.pmpro-levels #pmpro_levels_table thead{display: none;}
+.pmpro-levels #pmpro_levels_table table,.pmpro-levels #pmpro_levels_table td,.pmpro-levels #pmpro_levels_table th{border: none !important;}
+.pmpro-levels #pmpro_levels_table tbody { display: flex;justify-content: space-between;}
+.pmpro-levels #pmpro_levels_table tbody tr{ display: flex;flex-direction: column;width: 24%;background-color: #000;padding: 18px;}
+.pmpro-levels #pmpro_levels_table tbody tr td{text-align: center;    color: #fff;}
+.pmpro-levels #pmpro_levels_table {border: none !important;}
+#pmpro_levels_table .pmpro_btn {background-color: #2d9b68;}
+
+
+
+
+.pmpro-checkout {}
+.pmpro_checkout h3 span.pmpro_checkout-h3-msg {font-size: 20px;}
+form.pmpro_form input[type=text].input, form.pmpro_form input[type=password].input, .pmpro_login_wrap form#loginform input[type=text].input, .pmpro_login_wrap form#loginform input[type=password].input{max-width: 100%;order: 2;}
+
+.pmpro_checkout .pmpro_checkout-fields{ display: flex;flex-wrap: wrap;justify-content: space-between;}
+.pmpro_checkout form.pmpro_form .pmpro_checkout-fields div{position: relative;}
+.pmpro_checkout form.pmpro_form .input,.pmpro_checkout form.pmpro_form textarea,.pmpro_checkout form.pmpro_form select,.pmpro_checkout #loginform input[type=text],.pmpro_checkout #loginform input[type=password] {display: block;max-width: 100%;width: 100%;order: 2;}
+
+form.pmpro_form .input, form.pmpro_form textarea, form.pmpro_form select, #loginform input[type=text], #loginform input[type=password] {display: inline-block;max-width: 100%;width: 100%;order: 2;}
+
+
+
+.pmpro_checkout h3 span.pmpro_checkout-h3-msg {font-size: 16px;color: #000;}
+.pmpro_checkout h3 span.pmpro_checkout-h3-msg a {}
+
+
+
+
+
+
+
+
+
